@@ -1,2 +1,7 @@
-# demo-estudio-juridico-tedin-uriburu-tedin
-Demo web para ESTUDIO JURIDICO TEDIN URIBURU &amp; TEDIN — diseñada por eterlab.
+# ESTUDIO JURIDICO TEDIN URIBURU & TEDIN
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
